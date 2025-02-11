@@ -26,7 +26,7 @@ class Txt(object):
     SEND_TARGET_CHANNEL = """
 ( SEND THE TARGET CHANNEL LINK or USERNAME)
 
-☛ For e.g :- <code> @ </code> or <code> https:/t.me/STRANGERDEVS </code>
+☛ For e.g :- <code> @ </code> or <code> https:/t.me/II_SYNTAX_CODE_I </code>
 """
 
     SEND_SESSION_MSG = """
@@ -90,9 +90,9 @@ The bot will keep reporting to target channel or group until it's reach the numb
     START_MSG = """
 Hɪ {},
 
-Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʙʏ @STRANGERDEVS
+Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ 
 
-Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @STRANGERDEVS
+Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @II_SYNTAX_CODE_I
 """
 
     HELP_MSG = """
@@ -120,9 +120,9 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 
     ABOUT_MSG = """
 - 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href=https://t.me/{}>{}</a>
-- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : @STRANGERDEVS
+- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : @II_SYNTAX_CODE_I
 - 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : Pyrogram
 - 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 - 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
-- 𝖡𝖮𝖳 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖠𝗇𝗒𝖶𝗁𝖾𝗋𝖾
+- 𝖡𝖮𝖳 𝖲𝖾𝗋𝗏𝖾𝗋 : You can't use that
 """
